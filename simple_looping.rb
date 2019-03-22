@@ -23,7 +23,6 @@ def while_iterator(number_of_times)
   while counter < number_of_times
     puts phrase
     counter +=
-  end
 end
 
 def until_iterator(number_of_times)
